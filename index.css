@@ -6,9 +6,9 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  background: url(./Slide\16_9\-\1\\(1\).svg);
-  background-size: 100% 100%;
+  background-image: url(./shakki.svg);
   background-size: cover;
+
   color: #fff;
 }
 h1 {
